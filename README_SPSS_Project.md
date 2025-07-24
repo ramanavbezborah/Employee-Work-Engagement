@@ -39,7 +39,7 @@ The data was preprocessed for outliers and missing values before analysis.
 
 ## 📈 Descriptive Statistics & Correlation
 
-![Descriptive](assets/image008.png)
+![Descriptive](asset/image008.png)
 
 Initial descriptive analytics reveal variability in engagement across participants. A correlation matrix highlighted relationships among engagement and its predictors.
 
@@ -47,7 +47,7 @@ Initial descriptive analytics reveal variability in engagement across participan
 
 ## ⚖️ Independent Samples t-test Analysis
 
-![T-test](assets/image013.png)
+![T-test](asset/image013.png)
 
 ### 1. Gender Differences
 - **Male employees** reported significantly higher engagement.
@@ -63,7 +63,7 @@ Initial descriptive analytics reveal variability in engagement across participan
 
 ## 🔢 Multiple Linear Regression Analysis
 
-![Regression](assets/image015.png)
+![Regression](asset/image015.png)
 
 - Model: F(8,91) = 52.76, **p < .001**
 - R² = **0.823** → 82.3% of variance in engagement explained
@@ -78,28 +78,28 @@ Initial descriptive analytics reveal variability in engagement across participan
 ## 📊 Visual Output Gallery
 
 ### Variable View (SPSS)
-![Variable View](assets/image020.png)
+![Variable View](asset/image020.png)
 
 ### Data View (SPSS)
-![Data View](assets/image021.png)
+![Data View](asset/image021.png)
 
 ### Output: Descriptive Stats
-![Descriptive Output](assets/image022.png)
+![Descriptive Output](asset/image022.png)
 
 ### Output: Correlation Matrix
-![Correlation](assets/image023.png)
+![Correlation](asset/image023.png)
 
 ### Output: Group Statistics
-![Group Stats](assets/image024.png)
+![Group Stats](asset/image024.png)
 
 ### Output: Independent Samples t-test
-![T-test Results](assets/image025.png)
+![T-test Results](asset/image025.png)
 
 ### Output: Regression Model Summary
-![Model Summary](assets/image026.png)
+![Model Summary](asset/image026.png)
 
 ### Output: Regression Coefficients
-![Coefficients](assets/image027.png)
+![Coefficients](asset/image027.png)
 
 ---
 
