@@ -1,3 +1,10 @@
+<!-- 🎯 Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-HR%20Engagement%20Analytics-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-IBM%20SPSS%20%7C%20Excel%20%7C%20Markdown-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Employee%20Insights%20%7C%20Business%20Impact-informational?style=for-the-badge" />
+</p>
+
 # 💼 Employee Work Engagement Analysis Using SPSS
 
 ## 📌 Key Skills Applied
