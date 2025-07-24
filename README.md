@@ -29,7 +29,7 @@ This professional HR analytics report investigates the key drivers of employee w
 
 ---
 
-## 📊 Data & Methodology
+## 📊 Data & Methodology - <a ref="asset/Engagement data for Data Analysis.xlsx" download> Download Raw Data</a>
 
 Data was gathered from 100 employees via a structured survey. Variables included engagement scores, gender, employment status (permanent vs. casual), job characteristics, and workplace factors.
 
